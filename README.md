@@ -13,7 +13,7 @@ Key insights from the dashboard include:
 Total Unicorn Companies: There are currently 1,074 unicorn companies worldwide.
 Geographic Distribution: North America leads with 588 unicorn companies, followed by Asia with 310, and more.
 Top Industries: The most popular industry for unicorn companies is fintech (224), followed by internet software and services (205) and e-commerce and direct-to-consumer (111).
-Average Valuation: The average unicorn company is valued at $3.700 billion, with Bytedance being the most valuable at $180 billion.
+Average Valuation: The average unicorn company is valued at $3,700 billion, with Bytedance being the most valuable at $180 billion.
 
 ## Conclusion
 This Power BI dashboard provides a comprehensive overview of unicorn companies globally. It is accessible and valuable to a wide range of stakeholders, including investors, entrepreneurs, and policymakers.
